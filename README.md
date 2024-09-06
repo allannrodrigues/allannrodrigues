@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there, Allan Nunes! 👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=allannrodrigues&color=blue)</div>
 
-<!--
-**allannrodrigues/allannrodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn URL](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/allannrodrigues)
 
-Here are some ideas to get you started:
+## **I'm a Software Architect**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎯 **I’m currently working on**: Software architecture, cloud technologies, and innovative projects. I am a passionate technology professional focused on results.
+- 💬 **Ask me about**: Cloud, Azure, AWS, .NET, DDD, CQRS, RESTful APIs, SQL and NoSQL Databases, Software Architecture, Design Patterns, Testing, CI/CD
+- 📫 **How to reach me**: Reach out and connect with me on LinkedIn! 👆
+
+<hr/>
+
+<a href="https://github.com/allannrodrigues">
+  <img src="https://github-readme-stats.vercel.app/api?username=allannrodrigues&count_private=true&show_icons=true" />
+</a>
